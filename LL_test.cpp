@@ -13,6 +13,6 @@ int main(int argc, char *argv[])
                        A.add_node(t);
                        }
    A.show_all();
-    system("PAUSE");
-    return EXIT_SUCCESS;
+   
+    return0;
 }
